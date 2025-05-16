@@ -9,9 +9,7 @@ Topics that we intensively work on are:
 - Unraveling the fast evolution of genome structure and gene regulation.
 - Understanding the interplay of developmental plasticity and genetic adaptation.
 
-We work intensively with beetles (_Pogonus chalceus_) and ​​​​​​water fleas (_Daphnia magna_) but honestly, we're game for studying any critter that crosses our path!
-
-Join us on this genomic adventure as we explore how life adapts and evolves!
+We work intensively with beetles (_Pogonus chalceus_) and ​​​​​​water fleas (_Daphnia magna_) but honestly, we're game for studying any critter that crosses our path. Join us on this genomic adventure as we explore how life adapts and evolves!
 
 <!--
 
